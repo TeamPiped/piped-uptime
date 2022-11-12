@@ -1,31 +1,59 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: TeamPiped
+repo: piped-uptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+- name: kavin.rocks (Official)
+  url: https://pipedapi.kavin.rocks/healthcheck
+- name: tokhmi.xyz
+  url: https://pipedapi.tokhmi.xyz/healthcheck
+- name: moomoo.me
+  url: https://pipedapi.moomoo.me/healthcheck
+- name: syncpundit.io
+  url: https://pipedapi.syncpundit.io/healthcheck
+- name: mha.fi
+  url: https://api-piped.mha.fi/healthcheck
+- name: whatever.social
+  url: https://watchapi.whatever.social/healthcheck
+- name: garudalinux.org
+  url: https://piped-api.garudalinux.org/healthcheck
+- name: rivo.lol
+  url: https://pipedapi.rivo.lol/healthcheck
+- name: aeong.one
+  url: https://pipedapi.aeong.one/healthcheck
+- name: kavin.rocks libre (Official)
+  url: https://pipedapi-libre.kavin.rocks/healthcheck
+- name: jae.fi
+  url: https://api.yt.jae.fi/healthcheck
+- name: mint.lgbt
+  url: https://pa.mint.lgbt/healthcheck
+- name: il.ax
+  url: https://pa.il.ax/healthcheck
+- name: privacy.com.de
+  url: https://piped-api.privacy.com.de/healthcheck
+- name: esmailelbob.xyz
+  url: https://pipedapi.esmailelbob.xyz/healthcheck
+- name: projectsegfau.lt
+  url: https://api.piped.projectsegfau.lt/healthcheck
+- name: privacydev.net
+  url: https://api.piped.privacydev.net/healthcheck
+- name: palveluntarjoaja.eu
+  url: https://pipedapi.palveluntarjoaja.eu/healthcheck
+- name: plibre.com
+  url: https://p.plibre.com/healthcheck
+- name: smnz.de
+  url: https://pipedapi.smnz.de/healthcheck
+- name: adminforge.de
+  url: https://pipedapi.adminforge.de/healthcheck
+- name: qdi.fi
+  url: https://pipedapi.qdi.fi/healthcheck
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.piped.video
+  introMessage: A status page for Piped instances, with uptime and **INACCURATE**
+    response time information.
+  introTitle: Piped Instances status
+  logoUrl: https://raw.githubusercontent.com/uppthttps://cdn.jsdelivr.net/gh/TeamPiped/Piped@fcea986/public/img/icons/logo.svgime/upptime.js.org/master/static/img/icon.svg
+  name: Piped Instances Status
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  - href: /
+    title: Status
+  - href: https://github.com/$OWNER/$REPO
+    title: GitHub
