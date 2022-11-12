@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.tokhmi.xyz.ico",
     "slug": "tokhmi-xyz",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 638
+      "2022-11-12": 674
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.moomoo.me.ico",
     "slug": "moomoo-me",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 637
+      "2022-11-12": 673
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2022-11-12": 637
+      "2022-11-12": 673
     }
   },
   {
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watchapi.whatever.social.ico",
     "slug": "whatever-social",
     "status": "up",
-    "uptime": "74.70%",
-    "uptimeDay": "74.70%",
-    "uptimeWeek": "74.70%",
-    "uptimeMonth": "74.70%",
-    "uptimeYear": "74.70%",
+    "uptime": "76.05%",
+    "uptimeDay": "76.05%",
+    "uptimeWeek": "76.05%",
+    "uptimeMonth": "76.05%",
+    "uptimeYear": "76.05%",
     "time": 542,
     "timeDay": 542,
     "timeWeek": 542,
@@ -150,7 +150,7 @@
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-11-12": 637
+      "2022-11-12": 673
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2022-11-12": 637
+      "2022-11-12": 673
     }
   },
   {
@@ -233,18 +233,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.il.ax.ico",
     "slug": "il-ax",
     "status": "down",
-    "uptime": "4.46%",
-    "uptimeDay": "4.46%",
-    "uptimeWeek": "4.46%",
-    "uptimeMonth": "4.46%",
-    "uptimeYear": "4.46%",
+    "uptime": "4.22%",
+    "uptimeDay": "4.22%",
+    "uptimeWeek": "4.22%",
+    "uptimeMonth": "4.22%",
+    "uptimeYear": "4.22%",
     "time": 390,
     "timeDay": 390,
     "timeWeek": 390,
     "timeMonth": 390,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-11-12": 608
+      "2022-11-12": 644
     }
   },
   {
@@ -253,18 +253,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped-api.privacy.com.de.ico",
     "slug": "privacy-com-de",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 635
+      "2022-11-12": 671
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://pipedapi.esmailelbob.xyz/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.esmailelbob.xyz.ico",
     "slug": "esmailelbob-xyz",
-    "status": "down",
-    "uptime": "61.53%",
-    "uptimeDay": "61.53%",
-    "uptimeWeek": "61.53%",
-    "uptimeMonth": "61.53%",
-    "uptimeYear": "61.53%",
-    "time": 1967,
-    "timeDay": 1967,
-    "timeWeek": 1967,
-    "timeMonth": 1967,
-    "timeYear": 1967,
+    "status": "up",
+    "uptime": "58.27%",
+    "uptimeDay": "58.27%",
+    "uptimeWeek": "58.27%",
+    "uptimeMonth": "58.27%",
+    "uptimeYear": "58.27%",
+    "time": 1789,
+    "timeDay": 1789,
+    "timeWeek": 1789,
+    "timeMonth": 1789,
+    "timeYear": 1789,
     "dailyMinutesDown": {
-      "2022-11-12": 244
+      "2022-11-12": 280
     }
   },
   {
@@ -293,18 +293,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.piped.projectsegfau.lt.ico",
     "slug": "projectsegfau-lt",
     "status": "up",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 743,
     "timeDay": 743,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-11-12": 634
+      "2022-11-12": 669
     }
   },
   {
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 634
+      "2022-11-12": 669
     }
   },
   {
