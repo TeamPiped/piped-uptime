@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1256
+      "2022-11-12": 1264
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1254
+      "2022-11-12": 1263
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-11-12": 1254
+      "2022-11-12": 1263
     }
   },
   {
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watchapi.whatever.social.ico",
     "slug": "whatever-social",
     "status": "up",
-    "uptime": "87.15%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "87.15%",
-    "uptimeMonth": "87.15%",
-    "uptimeYear": "87.15%",
+    "uptime": "87.24%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "87.24%",
+    "uptimeMonth": "87.24%",
+    "uptimeYear": "87.24%",
     "time": 542,
     "timeDay": 542,
     "timeWeek": 542,
@@ -150,7 +150,7 @@
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-11-12": 1254
+      "2022-11-12": 1263
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-11-12": 1254
+      "2022-11-12": 1263
     }
   },
   {
@@ -233,11 +233,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.il.ax.ico",
     "slug": "il-ax",
     "status": "up",
-    "uptime": "19.72%",
-    "uptimeDay": "19.72%",
-    "uptimeWeek": "19.72%",
-    "uptimeMonth": "19.72%",
-    "uptimeYear": "19.72%",
+    "uptime": "20.27%",
+    "uptimeDay": "20.27%",
+    "uptimeWeek": "20.27%",
+    "uptimeMonth": "20.27%",
+    "uptimeYear": "20.27%",
     "time": 364,
     "timeDay": 364,
     "timeWeek": 364,
@@ -264,7 +264,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1252
+      "2022-11-12": 1261
     }
   },
   {
@@ -272,17 +272,17 @@
     "url": "https://pipedapi.esmailelbob.xyz/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.esmailelbob.xyz.ico",
     "slug": "esmailelbob-xyz",
-    "status": "up",
-    "uptime": "57.28%",
-    "uptimeDay": "57.28%",
-    "uptimeWeek": "57.28%",
-    "uptimeMonth": "57.28%",
-    "uptimeYear": "57.28%",
-    "time": 1617,
-    "timeDay": 1617,
-    "timeWeek": 1617,
-    "timeMonth": 1617,
-    "timeYear": 1617,
+    "status": "down",
+    "uptime": "57.56%",
+    "uptimeDay": "57.56%",
+    "uptimeWeek": "57.56%",
+    "uptimeMonth": "57.56%",
+    "uptimeYear": "57.56%",
+    "time": 1573,
+    "timeDay": 1573,
+    "timeWeek": 1573,
+    "timeMonth": 1573,
+    "timeYear": 1573,
     "dailyMinutesDown": {
       "2022-11-12": 535
     }
@@ -304,7 +304,7 @@
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-11-12": 1251
+      "2022-11-12": 1259
     }
   },
   {
@@ -360,7 +360,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1251
+      "2022-11-12": 1259
     }
   },
   {
