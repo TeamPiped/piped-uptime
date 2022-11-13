@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1294
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1292
     }
   },
@@ -76,7 +76,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1292
     }
   },
@@ -104,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/watchapi.whatever.social.ico",
     "slug": "whatever-social",
     "status": "up",
-    "uptime": "63.72%",
+    "uptime": "64.27%",
     "uptimeDay": "45.70%",
-    "uptimeWeek": "63.72%",
-    "uptimeMonth": "63.72%",
-    "uptimeYear": "63.72%",
+    "uptimeWeek": "64.27%",
+    "uptimeMonth": "64.27%",
+    "uptimeYear": "64.27%",
     "time": 496,
     "timeDay": 466,
     "timeWeek": 496,
@@ -125,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/piped-api.garudalinux.org.ico",
     "slug": "garudalinux-org",
     "status": "up",
-    "uptime": "95.33%",
+    "uptime": "95.40%",
     "uptimeDay": "91.58%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
     "time": 401,
     "timeDay": 405,
     "timeWeek": 401,
@@ -156,7 +156,7 @@
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1292
     }
   },
@@ -177,7 +177,7 @@
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1292
     }
   },
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.mint.lgbt.ico",
     "slug": "mint-lgbt",
     "status": "down",
-    "uptime": "89.52%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "89.52%",
-    "uptimeYear": "89.52%",
+    "uptime": "88.14%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "88.14%",
+    "uptimeMonth": "88.14%",
+    "uptimeYear": "88.14%",
     "time": 517,
     "timeDay": 516,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2022-11-13": 272
+      "2022-11-13": 313
     }
   },
   {
@@ -243,11 +243,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pa.il.ax.ico",
     "slug": "il-ax",
     "status": "up",
-    "uptime": "61.26%",
+    "uptime": "61.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.26%",
-    "uptimeMonth": "61.26%",
-    "uptimeYear": "61.26%",
+    "uptimeWeek": "61.86%",
+    "uptimeMonth": "61.86%",
+    "uptimeYear": "61.86%",
     "time": 364,
     "timeDay": 338,
     "timeWeek": 364,
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1291
     }
   },
@@ -283,19 +283,19 @@
     "url": "https://pipedapi.esmailelbob.xyz/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/pipedapi.esmailelbob.xyz.ico",
     "slug": "esmailelbob-xyz",
-    "status": "down",
-    "uptime": "57.53%",
-    "uptimeDay": "55.06%",
-    "uptimeWeek": "57.53%",
-    "uptimeMonth": "57.53%",
-    "uptimeYear": "57.53%",
-    "time": 1090,
-    "timeDay": 436,
-    "timeWeek": 1090,
-    "timeMonth": 1090,
-    "timeYear": 1090,
+    "status": "up",
+    "uptime": "56.66%",
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "56.66%",
+    "uptimeMonth": "56.66%",
+    "uptimeYear": "56.66%",
+    "time": 1088,
+    "timeDay": 469,
+    "timeWeek": 1088,
+    "timeMonth": 1088,
+    "timeYear": 1088,
     "dailyMinutesDown": {
-      "2022-11-13": 551,
+      "2022-11-13": 591,
       "2022-11-12": 554
     }
   },
@@ -305,11 +305,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.piped.projectsegfau.lt.ico",
     "slug": "projectsegfau-lt",
     "status": "up",
-    "uptime": "25.09%",
-    "uptimeDay": "45.14%",
-    "uptimeWeek": "25.09%",
-    "uptimeMonth": "25.09%",
-    "uptimeYear": "25.09%",
+    "uptime": "26.24%",
+    "uptimeDay": "47.97%",
+    "uptimeWeek": "26.24%",
+    "uptimeMonth": "26.24%",
+    "uptimeYear": "26.24%",
     "time": 724,
     "timeDay": 715,
     "timeWeek": 724,
@@ -373,7 +373,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 1307,
+      "2022-11-13": 1347,
       "2022-11-12": 1289
     }
   },
