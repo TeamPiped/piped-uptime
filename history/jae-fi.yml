@@ -1,7 +1,7 @@
 url: https://api.yt.jae.fi/healthcheck
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2022-11-23T16:34:51.975Z
+status: down
+code: 502
+responseTime: 3433
+lastUpdated: 2022-11-23T18:29:46.706Z
 startTime: Sat Nov 12 2022 02:27:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
