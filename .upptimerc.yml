@@ -19,6 +19,8 @@ sites:
   url: https://pipedapi.rivo.lol/healthcheck
 - name: aeong.one
   url: https://pipedapi.aeong.one/healthcheck
+- name: daviteusz.eu
+  url: https://pipedapi.daviteusz.eu/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: jae.fi
