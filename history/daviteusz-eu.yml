@@ -1,7 +1,7 @@
 url: https://pipedapi.daviteusz.eu/healthcheck
-status: up
-code: 200
-responseTime: 501
-lastUpdated: 2022-12-08T23:17:14.574Z
+status: down
+code: 530
+responseTime: 117
+lastUpdated: 2022-12-09T18:01:57.722Z
 startTime: Thu Nov 24 2022 01:59:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
