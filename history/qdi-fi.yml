@@ -1,7 +1,7 @@
 url: https://pipedapi.qdi.fi/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-21T22:26:16.869Z
+status: up
+code: 200
+responseTime: 262
+lastUpdated: 2022-12-21T23:03:29.407Z
 startTime: Sat Nov 12 2022 02:31:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
