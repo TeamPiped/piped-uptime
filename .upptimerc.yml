@@ -53,6 +53,8 @@ sites:
   url: https://piped-api.hostux.net/healthcheck
 - name: vern.cc
   url: https://pdapi.vern.cc/healthcheck
+- name: chauvet.pro
+  url: https://pipedapi.chauvet.pro/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
