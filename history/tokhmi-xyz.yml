@@ -1,7 +1,7 @@
 url: https://pipedapi.tokhmi.xyz/healthcheck
 status: down
-code: 522
-responseTime: 15529
-lastUpdated: 2023-01-04T23:04:41.807Z
+code: 502
+responseTime: 192
+lastUpdated: 2023-01-05T23:03:48.783Z
 startTime: Sat Nov 12 2022 02:24:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
