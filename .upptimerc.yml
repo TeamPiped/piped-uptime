@@ -21,6 +21,8 @@ sites:
   url: https://pipedapi.aeong.one/healthcheck
 - name: leptons.xyz
   url: https://pipedapi.leptons.xyz/healthcheck
+- name: lunar.icu
+  url: https://piped-api.lunar.icu/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: jae.fi
