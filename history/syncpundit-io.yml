@@ -1,7 +1,7 @@
 url: https://pipedapi.syncpundit.io/healthcheck
 status: down
-code: 503
-responseTime: 189
-lastUpdated: 2023-02-11T23:05:49.589Z
+code: 403
+responseTime: 148
+lastUpdated: 2023-02-13T23:05:27.746Z
 startTime: Sat Nov 12 2022 02:27:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
