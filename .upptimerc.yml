@@ -55,6 +55,8 @@ sites:
   url: https://pdapi.vern.cc/healthcheck
 - name: chauvet.pro
   url: https://pipedapi.chauvet.pro/healthcheck
+- name: berryez.xyz
+  url: https://pipedapi.berryez.xyz/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
