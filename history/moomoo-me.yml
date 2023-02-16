@@ -1,7 +1,7 @@
 url: https://pipedapi.moomoo.me/healthcheck
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-02-15T23:05:27.581Z
+code: 503
+responseTime: 238
+lastUpdated: 2023-02-16T23:04:10.749Z
 startTime: Sat Nov 12 2022 02:26:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
