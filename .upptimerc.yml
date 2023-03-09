@@ -57,6 +57,12 @@ sites:
   url: https://pipedapi.chauvet.pro/healthcheck
 - name: berryez.xyz
   url: https://pipedapi.berryez.xyz/healthcheck
+- name: projectsegfau.lt
+  url: https://api.piped.projectsegfau.lt/healthcheck
+- name: projectsegfau.lt
+  url: https://pipedapi.in.projectsegfau.lt/healthcheck
+- name: projectsegfau.lt
+  url: https://pipedapi.us.projectsegfau.lt/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
