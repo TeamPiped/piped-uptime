@@ -25,8 +25,8 @@ sites:
   url: https://piped-api.lunar.icu/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
-- name: jae.fi
-  url: https://api.yt.jae.fi/healthcheck
+- name: 777.tf
+  url: https://api.yt.777.tf/healthcheck
 - name: mint.lgbt
   url: https://pa.mint.lgbt/healthcheck
 - name: il.ax
@@ -37,6 +37,10 @@ sites:
   url: https://pipedapi.esmailelbob.xyz/healthcheck
 - name: projectsegfau.lt
   url: https://api.piped.projectsegfau.lt/healthcheck
+- name: projectsegfau.lt in
+  url: https://pipedapi.in.projectsegfau.lt/healthcheck
+- name: projectsegfau.lt us
+  url: https://pipedapi.us.projectsegfau.lt/healthcheck
 - name: privacydev.net
   url: https://api.piped.privacydev.net/healthcheck
 - name: palveluntarjoaja.eu
@@ -57,12 +61,6 @@ sites:
   url: https://pipedapi.chauvet.pro/healthcheck
 - name: berryez.xyz
   url: https://pipedapi.berryez.xyz/healthcheck
-- name: projectsegfau.lt
-  url: https://api.piped.projectsegfau.lt/healthcheck
-- name: projectsegfau.lt
-  url: https://pipedapi.in.projectsegfau.lt/healthcheck
-- name: projectsegfau.lt
-  url: https://pipedapi.us.projectsegfau.lt/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
