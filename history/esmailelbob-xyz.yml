@@ -1,7 +1,7 @@
 url: https://pipedapi.esmailelbob.xyz/healthcheck
-status: down
-code: 502
-responseTime: 4136
-lastUpdated: 2023-03-15T08:00:29.737Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2023-03-15T08:35:07.682Z
 startTime: Sat Nov 12 2022 02:29:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
