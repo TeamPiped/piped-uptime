@@ -1,7 +1,7 @@
 url: https://pipedapi.palveluntarjoaja.eu/healthcheck
-status: down
-code: 502
-responseTime: 4707
-lastUpdated: 2023-03-20T10:16:15.397Z
+status: up
+code: 200
+responseTime: 654
+lastUpdated: 2023-03-20T10:29:47.481Z
 startTime: Sat Nov 12 2022 02:31:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
