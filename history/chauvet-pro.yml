@@ -1,7 +1,7 @@
 url: https://pipedapi.chauvet.pro/healthcheck
-status: down
-code: 502
-responseTime: 752
-lastUpdated: 2023-03-28T10:07:26.068Z
+status: up
+code: 200
+responseTime: 754
+lastUpdated: 2023-03-28T10:20:08.246Z
 startTime: Sun Jan 01 2023 00:31:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
