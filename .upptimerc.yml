@@ -23,6 +23,10 @@ sites:
   url: https://pipedapi.leptons.xyz/healthcheck
 - name: lunar.icu
   url: https://piped-api.lunar.icu/healthcheck
+- name: dc09.ru
+  url: https://ytapi.dc09.ru/healthcheck
+- name: pfcd.me
+  url: https://pipedapi.pfcd.me/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: 777.tf
