@@ -65,6 +65,8 @@ sites:
   url: https://pipedapi.chauvet.pro/healthcheck
 - name: berryez.xyz
   url: https://pipedapi.berryez.xyz/healthcheck
+- name: jotoma.de
+  url: https://pipedapi.jotoma.de/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
