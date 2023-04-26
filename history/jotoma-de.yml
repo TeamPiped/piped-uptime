@@ -1,7 +1,7 @@
 url: https://pipedapi.jotoma.de/healthcheck
-status: down
-code: 503
-responseTime: 865
-lastUpdated: 2023-04-26T15:10:01.239Z
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2023-04-26T15:19:58.453Z
 startTime: Sat Apr 22 2023 00:43:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
