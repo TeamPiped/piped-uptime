@@ -25,8 +25,6 @@ sites:
   url: https://piped-api.lunar.icu/healthcheck
 - name: dc09.ru
   url: https://ytapi.dc09.ru/healthcheck
-- name: pfcd.me
-  url: https://pipedapi.pfcd.me/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: 777.tf
@@ -67,6 +65,8 @@ sites:
   url: https://pipedapi.berryez.xyz/healthcheck
 - name: jotoma.de
   url: https://pipedapi.jotoma.de/healthcheck
+- name: pfcd.me
+  url: https://pipedapi.pfcd.me/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
