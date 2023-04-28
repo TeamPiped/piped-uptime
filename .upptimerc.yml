@@ -67,6 +67,8 @@ sites:
   url: https://pipedapi.jotoma.de/healthcheck
 - name: pfcd.me
   url: https://pipedapi.pfcd.me/healthcheck
+- name: frontendfriendly.xyz
+  url: https://pipedapi.frontendfriendly.xyz/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
