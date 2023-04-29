@@ -1,7 +1,7 @@
 url: https://api.yt.777.tf/healthcheck
-status: down
-code: 502
-responseTime: 727
-lastUpdated: 2023-04-29T06:50:39.895Z
+status: up
+code: 200
+responseTime: 660
+lastUpdated: 2023-04-29T06:59:35.937Z
 startTime: Sat Mar 11 2023 20:54:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
