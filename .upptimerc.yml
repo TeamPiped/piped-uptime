@@ -25,10 +25,10 @@ sites:
   url: https://piped-api.lunar.icu/healthcheck
 - name: dc09.ru
   url: https://ytapi.dc09.ru/healthcheck
+- name: kozmik.studio
+  url: https://pipedapi.kozmik.studio/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
-- name: 777.tf
-  url: https://api.yt.777.tf/healthcheck
 - name: mint.lgbt
   url: https://pa.mint.lgbt/healthcheck
 - name: il.ax
@@ -47,8 +47,6 @@ sites:
   url: https://api.piped.privacydev.net/healthcheck
 - name: palveluntarjoaja.eu
   url: https://pipedapi.palveluntarjoaja.eu/healthcheck
-- name: plibre.com
-  url: https://p.plibre.com/healthcheck
 - name: smnz.de
   url: https://pipedapi.smnz.de/healthcheck
 - name: adminforge.de
