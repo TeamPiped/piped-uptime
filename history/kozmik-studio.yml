@@ -1,7 +1,7 @@
 url: https://pipedapi.kozmik.studio/healthcheck
-status: down
-code: 521
-responseTime: 296
-lastUpdated: 2023-05-13T21:53:47.065Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2023-05-13T22:03:08.851Z
 startTime: Sat May 13 2023 00:23:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
