@@ -1,7 +1,7 @@
 url: https://pa.mint.lgbt/healthcheck
-status: up
-code: 200
-responseTime: 653
-lastUpdated: 2023-05-16T15:37:43.622Z
+status: down
+code: 503
+responseTime: 565
+lastUpdated: 2023-05-16T22:52:35.435Z
 startTime: Sat Nov 12 2022 02:27:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
