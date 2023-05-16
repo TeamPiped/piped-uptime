@@ -27,6 +27,8 @@ sites:
   url: https://ytapi.dc09.ru/healthcheck
 - name: kozmik.studio
   url: https://pipedapi.kozmik.studio/healthcheck
+- name: colinslegacy.com
+  url: https://pipedapi.colinslegacy.com/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
