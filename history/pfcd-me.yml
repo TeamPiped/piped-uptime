@@ -1,7 +1,7 @@
 url: https://pipedapi.pfcd.me/healthcheck
-status: up
-code: 200
-responseTime: 519
-lastUpdated: 2023-05-20T23:06:41.268Z
+status: down
+code: 404
+responseTime: 302
+lastUpdated: 2023-05-21T18:38:35.901Z
 startTime: Fri Apr 21 2023 00:42:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
