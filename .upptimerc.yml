@@ -39,8 +39,6 @@ sites:
   url: https://pa.il.ax/healthcheck
 - name: privacy.com.de
   url: https://piped-api.privacy.com.de/healthcheck
-- name: esmailelbob.xyz
-  url: https://pipedapi.esmailelbob.xyz/healthcheck
 - name: projectsegfau.lt
   url: https://api.piped.projectsegfau.lt/healthcheck
 - name: projectsegfau.lt in
