@@ -11,8 +11,6 @@ sites:
   url: https://pipedapi.syncpundit.io/healthcheck
 - name: mha.fi
   url: https://api-piped.mha.fi/healthcheck
-- name: whatever.social
-  url: https://watchapi.whatever.social/healthcheck
 - name: garudalinux.org
   url: https://piped-api.garudalinux.org/healthcheck
 - name: rivo.lol
@@ -45,6 +43,8 @@ sites:
   url: https://pipedapi.in.projectsegfau.lt/healthcheck
 - name: projectsegfau.lt us
   url: https://pipedapi.us.projectsegfau.lt/healthcheck
+- name: whatever.social
+  url: https://watchapi.whatever.social/healthcheck
 - name: privacydev.net
   url: https://api.piped.privacydev.net/healthcheck
 - name: palveluntarjoaja.eu
