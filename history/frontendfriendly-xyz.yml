@@ -1,7 +1,7 @@
 url: https://pipedapi.frontendfriendly.xyz/healthcheck
-status: up
-code: 200
-responseTime: 188
-lastUpdated: 2023-06-19T03:10:03.124Z
+status: down
+code: 502
+responseTime: 275
+lastUpdated: 2023-06-19T03:22:09.474Z
 startTime: Fri Apr 28 2023 00:26:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
