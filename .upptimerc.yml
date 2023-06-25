@@ -69,6 +69,10 @@ sites:
   url: https://api.piped.yt/healthcheck
 - name: astartes.nl
   url: https://pipedapi.astartes.nl/healthcheck
+- name: osphost.fi
+  url: https://pipedapi.osphost.fi/healthcheck
+- name: simpleprivacy.fr
+  url: https://pipedapi.simpleprivacy.fr/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
