@@ -57,8 +57,6 @@ sites:
   url: https://piped-api.hostux.net/healthcheck
 - name: vern.cc
   url: https://pdapi.vern.cc/healthcheck
-- name: berryez.xyz
-  url: https://pipedapi.berryez.xyz/healthcheck
 - name: jotoma.de
   url: https://pipedapi.jotoma.de/healthcheck
 - name: pfcd.me
