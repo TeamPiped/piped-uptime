@@ -1,7 +1,7 @@
 url: https://pipedapi.colinslegacy.com/healthcheck
-status: up
-code: 200
-responseTime: 304
-lastUpdated: 2023-07-01T23:05:20.643Z
+status: down
+code: 502
+responseTime: 96
+lastUpdated: 2023-07-02T10:30:16.979Z
 startTime: Tue May 16 2023 00:25:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
