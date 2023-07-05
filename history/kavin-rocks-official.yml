@@ -1,7 +1,7 @@
 url: https://pipedapi.kavin.rocks/healthcheck
 status: down
-code: 502
-responseTime: 429
-lastUpdated: 2023-07-05T22:22:18.354Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-07-05T23:04:16.708Z
 startTime: Sat Nov 12 2022 02:24:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
