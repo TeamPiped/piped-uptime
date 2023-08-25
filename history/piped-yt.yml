@@ -1,7 +1,7 @@
 url: https://api.piped.yt/healthcheck
-status: up
-code: 200
-responseTime: 1235
-lastUpdated: 2023-08-24T23:05:40.697Z
+status: down
+code: 502
+responseTime: 746
+lastUpdated: 2023-08-25T08:26:51.227Z
 startTime: 2023-06-01T00:23:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
