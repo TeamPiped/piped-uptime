@@ -27,6 +27,8 @@ sites:
   url: https://pipedapi.colinslegacy.com/healthcheck
 - name: vyper.me
   url: https://yapi.vyper.me/healthcheck
+- name: looleh.xyz
+  url: https://api.looleh.xyz/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
