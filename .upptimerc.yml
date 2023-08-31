@@ -74,7 +74,9 @@ sites:
 - name: simpleprivacy.fr
   url: https://pipedapi.simpleprivacy.fr/healthcheck
 - name: drgns.space
-  url: https://pipedapi.drgns.space//healthcheck
+  url: https://pipedapi.drgns.space/healthcheck
+- name: ggtyler.dev
+  url: https://piapi.ggtyler.dev/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
