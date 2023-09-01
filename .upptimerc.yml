@@ -59,8 +59,6 @@ sites:
   url: https://piped-api.hostux.net/healthcheck
 - name: vern.cc
   url: https://pdapi.vern.cc/healthcheck
-- name: jotoma.de
-  url: https://pipedapi.jotoma.de/healthcheck
 - name: pfcd.me
   url: https://pipedapi.pfcd.me/healthcheck
 - name: frontendfriendly.xyz
@@ -77,6 +75,8 @@ sites:
   url: https://pipedapi.drgns.space/healthcheck
 - name: ggtyler.dev
   url: https://piapi.ggtyler.dev/healthcheck
+- name: pluto.lat
+  url: https://watchapi.pluto.lat/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
