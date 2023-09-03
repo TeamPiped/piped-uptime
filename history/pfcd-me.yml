@@ -1,7 +1,7 @@
 url: https://pipedapi.pfcd.me/healthcheck
 status: down
 code: 502
-responseTime: 502
-lastUpdated: 2023-09-02T23:05:08.923Z
+responseTime: 464
+lastUpdated: 2023-09-03T23:06:53.458Z
 startTime: 2023-04-21T00:42:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
