@@ -1,7 +1,7 @@
 url: https://watchapi.pluto.lat/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-06T22:18:35.627Z
+status: up
+code: 200
+responseTime: 526
+lastUpdated: 2023-09-06T22:28:27.781Z
 startTime: 2023-09-01T00:07:23.601Z
 generator: Upptime <https://github.com/upptime/upptime>
