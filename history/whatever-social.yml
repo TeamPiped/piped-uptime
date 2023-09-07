@@ -1,7 +1,7 @@
 url: https://watchapi.whatever.social/healthcheck
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2023-09-07T00:27:52.225Z
+status: down
+code: 502
+responseTime: 777
+lastUpdated: 2023-09-07T02:37:03.154Z
 startTime: 2022-11-12T02:27:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
