@@ -1,7 +1,7 @@
 url: https://piped-api.hostux.net/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-10T12:56:49.488Z
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2023-09-10T13:07:24.587Z
 startTime: 2022-11-25T01:58:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
