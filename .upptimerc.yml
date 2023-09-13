@@ -76,7 +76,7 @@ sites:
 - name: ggtyler.dev
   url: https://piapi.ggtyler.dev/healthcheck
 - name: pluto.lat
-  url: https://watchapi.pluto.lat/healthcheck
+  url: https://api.watch.pluto.lat/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
