@@ -1,7 +1,7 @@
 url: https://api.piped.privacydev.net/healthcheck
-status: up
-code: 200
-responseTime: 1093
-lastUpdated: 2023-09-15T18:49:15.053Z
+status: down
+code: 502
+responseTime: 711
+lastUpdated: 2023-09-15T23:00:06.381Z
 startTime: 2022-11-12T02:31:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
