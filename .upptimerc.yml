@@ -77,6 +77,8 @@ sites:
   url: https://piapi.ggtyler.dev/healthcheck
 - name: pluto.lat
   url: https://api.watch.pluto.lat/healthcheck
+- name: seitan-ayoub.lol
+  url: https://piped-backend.seitan-ayoub.lol/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
