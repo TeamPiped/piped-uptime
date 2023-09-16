@@ -60,7 +60,7 @@
     "timeMonth": 184,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -212,7 +212,7 @@
     "timeMonth": 1879,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -540,7 +540,7 @@
     "timeMonth": 145,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -1063,7 +1063,7 @@
     "timeMonth": 130,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -1383,7 +1383,7 @@
     "uptime": "75.01%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "59.13%",
+    "uptimeMonth": "59.15%",
     "uptimeYear": "75.01%",
     "time": 625,
     "timeDay": 529,
@@ -1637,7 +1637,7 @@
     "timeMonth": 0,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -1743,7 +1743,7 @@
     "timeMonth": 93,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -2008,7 +2008,7 @@
     "timeMonth": 0,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2023-09-16": 230,
+      "2023-09-16": 239,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -2476,7 +2476,7 @@
     "slug": "projectsegfau-lt",
     "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "37.69%",
+    "uptimeDay": "38.33%",
     "uptimeWeek": "41.35%",
     "uptimeMonth": "80.40%",
     "uptimeYear": "97.39%",
@@ -2535,7 +2535,7 @@
     "slug": "projectsegfau-lt-in",
     "status": "up",
     "uptime": "88.68%",
-    "uptimeDay": "26.31%",
+    "uptimeDay": "26.96%",
     "uptimeWeek": "64.12%",
     "uptimeMonth": "89.31%",
     "uptimeYear": "88.68%",
@@ -2843,7 +2843,7 @@
     "timeMonth": 0,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2023-09-16": 231,
+      "2023-09-16": 240,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -3068,7 +3068,7 @@
     "uptime": "89.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.25%",
+    "uptimeMonth": "19.22%",
     "uptimeYear": "89.52%",
     "time": 427,
     "timeDay": 0,
@@ -3076,7 +3076,7 @@
     "timeMonth": 2257,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2023-09-16": 231,
+      "2023-09-16": 240,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -3228,7 +3228,7 @@
     "timeMonth": 883,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2023-09-16": 231,
+      "2023-09-16": 240,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -3374,7 +3374,7 @@
     "timeMonth": 410,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-09-16": 231,
+      "2023-09-16": 240,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -3574,7 +3574,7 @@
     "timeMonth": 784,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2023-09-16": 231,
+      "2023-09-16": 241,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
@@ -3752,19 +3752,19 @@
     "url": "https://piped-backend.seitan-ayoub.lol/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/piped-backend.seitan-ayoub.lol.ico",
     "slug": "seitan-ayoub-lol",
-    "status": "down",
-    "uptime": "58.43%",
-    "uptimeDay": "58.43%",
-    "uptimeWeek": "58.43%",
-    "uptimeMonth": "58.43%",
-    "uptimeYear": "58.43%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "56.89%",
+    "uptimeDay": "56.89%",
+    "uptimeWeek": "56.89%",
+    "uptimeMonth": "56.89%",
+    "uptimeYear": "56.89%",
+    "time": 605,
+    "timeDay": 605,
+    "timeWeek": 605,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2023-09-16": 87
+      "2023-09-16": 94
     }
   }
 ]
