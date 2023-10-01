@@ -15,8 +15,6 @@ sites:
   url: https://piped-api.garudalinux.org/healthcheck
 - name: rivo.lol
   url: https://pipedapi.rivo.lol/healthcheck
-- name: aeong.one
-  url: https://pipedapi.aeong.one/healthcheck
 - name: leptons.xyz
   url: https://pipedapi.leptons.xyz/healthcheck
 - name: lunar.icu
@@ -29,6 +27,8 @@ sites:
   url: https://yapi.vyper.me/healthcheck
 - name: looleh.xyz
   url: https://api.looleh.xyz/healthcheck
+- name: cfe.re
+  url: https://piped-api.cfe.re/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
