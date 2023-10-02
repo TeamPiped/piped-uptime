@@ -1,7 +1,7 @@
 url: https://piped-api.cfe.re/healthcheck
-status: down
-code: 523
-responseTime: 1030
-lastUpdated: 2023-10-01T23:04:09.814Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2023-10-02T12:12:29.236Z
 startTime: 2023-10-01T00:25:52.172Z
 generator: Upptime <https://github.com/upptime/upptime>
