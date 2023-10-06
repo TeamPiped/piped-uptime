@@ -1,7 +1,7 @@
 url: https://ytapi.dc09.ru/healthcheck
-status: up
-code: 200
-responseTime: 941
-lastUpdated: 2023-10-04T10:23:45.574Z
+status: down
+code: 502
+responseTime: 1810
+lastUpdated: 2023-10-06T13:29:50.142Z
 startTime: 2023-04-21T00:42:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
