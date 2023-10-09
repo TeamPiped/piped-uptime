@@ -1,7 +1,7 @@
 url: https://piped-backend.seitan-ayoub.lol/healthcheck
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2023-10-08T12:03:09.295Z
+status: down
+code: 502
+responseTime: 604
+lastUpdated: 2023-10-09T01:23:13.492Z
 startTime: 2023-09-16T00:22:50.495Z
 generator: Upptime <https://github.com/upptime/upptime>
