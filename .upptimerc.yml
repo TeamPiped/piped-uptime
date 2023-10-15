@@ -29,6 +29,8 @@ sites:
   url: https://api.looleh.xyz/healthcheck
 - name: cfe.re
   url: https://piped-api.cfe.re/healthcheck
+- name: rafo.tech
+  url: https://pipedapi.rafo.tech/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
