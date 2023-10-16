@@ -1,7 +1,7 @@
 url: https://api-piped.mha.fi/healthcheck
 status: up
 code: 200
-responseTime: 777
-lastUpdated: 2023-10-12T23:03:57.599Z
+responseTime: 592
+lastUpdated: 2023-10-16T23:03:49.510Z
 startTime: 2022-11-12T02:27:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
