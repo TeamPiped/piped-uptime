@@ -81,6 +81,10 @@ sites:
   url: https://api.watch.pluto.lat/healthcheck
 - name: seitan-ayoub.lol
   url: https://piped-backend.seitan-ayoub.lol/healthcheck
+- name: owo.si
+  url: https://pipedapi.owo.si/healthcheck
+- name: 12a.app
+  url: https://pipedapi.12a.app/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
