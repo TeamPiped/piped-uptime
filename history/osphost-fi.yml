@@ -1,7 +1,7 @@
 url: https://pipedapi.osphost.fi/healthcheck
-status: down
-code: 404
-responseTime: 469
-lastUpdated: 2023-10-18T14:46:36.226Z
+status: up
+code: 200
+responseTime: 859
+lastUpdated: 2023-10-18T15:28:08.479Z
 startTime: 2023-06-25T00:34:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
