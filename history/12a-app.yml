@@ -1,7 +1,7 @@
 url: https://pipedapi.12a.app/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-19T11:21:17.134Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2023-10-20T18:43:34.032Z
 startTime: 2023-10-17T00:54:13.879Z
 generator: Upptime <https://github.com/upptime/upptime>
