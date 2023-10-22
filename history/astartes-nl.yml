@@ -1,7 +1,7 @@
 url: https://pipedapi.astartes.nl/healthcheck
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2023-10-22T15:57:14.750Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2023-10-22T16:50:29.989Z
 startTime: 2023-06-07T00:19:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
