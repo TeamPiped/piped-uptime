@@ -1,7 +1,7 @@
 url: https://pipedapi.leptons.xyz/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-28T23:05:26.325Z
+status: up
+code: 200
+responseTime: 365
+lastUpdated: 2023-10-29T15:57:37.107Z
 startTime: 2022-12-26T00:26:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
