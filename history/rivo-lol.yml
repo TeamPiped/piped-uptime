@@ -1,7 +1,7 @@
 url: https://pipedapi.rivo.lol/healthcheck
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2023-11-01T06:27:47.457Z
+status: down
+code: 404
+responseTime: 621
+lastUpdated: 2023-11-01T06:46:39.778Z
 startTime: 2022-11-12T02:27:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
