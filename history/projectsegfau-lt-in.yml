@@ -1,7 +1,7 @@
 url: https://pipedapi.in.projectsegfau.lt/healthcheck
-status: up
-code: 200
-responseTime: 833
-lastUpdated: 2023-11-05T12:39:05.283Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-05T15:11:35.931Z
 startTime: 2023-03-11T20:55:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
