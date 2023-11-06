@@ -29,8 +29,8 @@ sites:
   url: https://api.looleh.xyz/healthcheck
 - name: cfe.re
   url: https://piped-api.cfe.re/healthcheck
-- name: rafo.tech
-  url: https://pipedapi.rafo.tech/healthcheck
+- name: r4fo.com
+  url: https://pipedapi.r4fo.com/healthcheck
 - name: game.yt
   url: https://piped-api.game.yt/healthcheck
 - name: kavin.rocks libre (Official)
