@@ -1,7 +1,7 @@
 url: https://pipedapi.r4fo.com/healthcheck
-status: up
-code: 200
-responseTime: 346
-lastUpdated: 2023-11-08T06:43:18.651Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-08T09:02:49.232Z
 startTime: 2023-11-06T00:45:39.047Z
 generator: Upptime <https://github.com/upptime/upptime>
