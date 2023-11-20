@@ -1,7 +1,7 @@
 url: https://piapi.ggtyler.dev/healthcheck
-status: up
-code: 200
-responseTime: 374
-lastUpdated: 2023-11-19T08:20:34.737Z
+status: down
+code: 502
+responseTime: 529
+lastUpdated: 2023-11-20T05:08:24.039Z
 startTime: 2023-08-31T00:22:50.170Z
 generator: Upptime <https://github.com/upptime/upptime>
