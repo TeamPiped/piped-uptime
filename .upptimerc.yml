@@ -87,8 +87,6 @@ sites:
   url: https://pipedapi.12a.app/healthcheck
 - name: minionflo.net
   url: https://api.piped.minionflo.net//healthcheck
-- name: game.yt
-  url: https://piped-api.game.yt/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
