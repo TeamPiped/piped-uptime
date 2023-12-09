@@ -31,6 +31,8 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
+- name: wireway.ch
+  url: https://pipedapi.wireway.ch/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
@@ -86,7 +88,7 @@ sites:
 - name: 12a.app
   url: https://pipedapi.12a.app/healthcheck
 - name: minionflo.net
-  url: https://api.piped.minionflo.net//healthcheck
+  url: https://api.piped.minionflo.net/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
