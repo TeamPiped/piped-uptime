@@ -1,7 +1,7 @@
 url: https://pipedapi.wireway.ch/healthcheck
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2023-12-09T08:42:24.269Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-09T09:42:07.475Z
 startTime: 2023-12-09T00:25:12.777Z
 generator: Upptime <https://github.com/upptime/upptime>
