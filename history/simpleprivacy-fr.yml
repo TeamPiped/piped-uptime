@@ -1,7 +1,7 @@
 url: https://pipedapi.simpleprivacy.fr/healthcheck
-status: up
-code: 200
-responseTime: 19631
-lastUpdated: 2023-12-10T03:50:25.431Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-10T04:11:04.670Z
 startTime: 2023-06-25T00:34:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
