@@ -1,7 +1,7 @@
 url: https://piped-api.garudalinux.org/healthcheck
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2023-12-13T23:04:17.509Z
+status: down
+code: 404
+responseTime: 739
+lastUpdated: 2023-12-14T22:37:40.580Z
 startTime: 2022-11-12T02:27:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
