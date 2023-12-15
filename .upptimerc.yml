@@ -31,8 +31,6 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
-- name: wireway.ch
-  url: https://pipedapi.wireway.ch/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
