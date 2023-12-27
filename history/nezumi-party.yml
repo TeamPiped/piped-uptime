@@ -1,7 +1,7 @@
 url: https://pipedapi.nezumi.party/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-27T03:05:57.216Z
+status: up
+code: 200
+responseTime: 443
+lastUpdated: 2023-12-27T03:27:04.828Z
 startTime: 2023-12-27T00:49:01.174Z
 generator: Upptime <https://github.com/upptime/upptime>
