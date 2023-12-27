@@ -87,6 +87,8 @@ sites:
   url: https://pipedapi.12a.app/healthcheck
 - name: minionflo.net
   url: https://api.piped.minionflo.net/healthcheck
+- name: nezumi.party
+  url: https://pipedapi.nezumi.party/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
