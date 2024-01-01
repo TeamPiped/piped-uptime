@@ -1,7 +1,7 @@
 url: https://api.piped.projectsegfau.lt/healthcheck
-status: up
-code: 200
-responseTime: 3155
-lastUpdated: 2024-01-01T11:07:11.681Z
+status: down
+code: 502
+responseTime: 1730
+lastUpdated: 2024-01-01T16:55:32.034Z
 startTime: 2022-11-12T02:29:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
