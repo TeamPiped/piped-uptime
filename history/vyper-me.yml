@@ -1,7 +1,7 @@
 url: https://yapi.vyper.me/healthcheck
-status: up
-code: 200
-responseTime: 57
-lastUpdated: 2024-01-20T02:44:38.733Z
+status: down
+code: 404
+responseTime: 227
+lastUpdated: 2024-01-20T03:04:01.729Z
 startTime: 2023-05-19T00:22:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
