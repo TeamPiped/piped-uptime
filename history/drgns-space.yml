@@ -1,7 +1,7 @@
 url: https://pipedapi.drgns.space/healthcheck
-status: down
-code: 502
-responseTime: 290
-lastUpdated: 2024-01-28T17:27:55.196Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2024-01-28T17:46:34.105Z
 startTime: 2023-07-28T00:17:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
