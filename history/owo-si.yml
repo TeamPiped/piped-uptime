@@ -1,7 +1,7 @@
 url: https://pipedapi.owo.si/healthcheck
-status: up
-code: 200
-responseTime: 509
-lastUpdated: 2024-01-28T21:39:24.707Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-28T21:58:46.937Z
 startTime: 2023-10-17T00:53:43.085Z
 generator: Upptime <https://github.com/upptime/upptime>
