@@ -91,6 +91,8 @@ sites:
   url: https://pipedapi.nezumi.party/healthcheck
 - name: ngn.tf
   url: https://pipedapi.ngn.tf/healthcheck
+- name: ducks.party
+  url: https://pipedapi.ducks.party/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
