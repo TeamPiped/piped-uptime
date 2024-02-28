@@ -31,6 +31,8 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
+- name: ngn.tf
+  url: https://pipedapi.ngn.tf/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
@@ -89,8 +91,6 @@ sites:
   url: https://api.piped.minionflo.net/healthcheck
 - name: nezumi.party
   url: https://pipedapi.nezumi.party/healthcheck
-- name: ngn.tf
-  url: https://pipedapi.ngn.tf/healthcheck
 - name: ducks.party
   url: https://pipedapi.ducks.party/healthcheck
 status-website:
