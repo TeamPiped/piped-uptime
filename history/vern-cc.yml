@@ -1,7 +1,7 @@
 url: https://pdapi.vern.cc/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-29T10:44:39.154Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2024-02-29T11:02:27.332Z
 startTime: 2022-12-16T00:28:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
