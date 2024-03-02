@@ -31,8 +31,6 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
-- name: ngn.tf
-  url: https://pipedapi.ngn.tf/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
@@ -93,6 +91,8 @@ sites:
   url: https://pipedapi.nezumi.party/healthcheck
 - name: ducks.party
   url: https://pipedapi.ducks.party/healthcheck
+- name: ngn.tf
+  url: https://pipedapi.ngn.tf/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
