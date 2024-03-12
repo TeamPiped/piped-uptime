@@ -31,6 +31,8 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
+- name: darkness.services
+  url: https://pipedapi.darkness.services/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
