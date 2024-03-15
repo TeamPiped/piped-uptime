@@ -95,6 +95,8 @@ sites:
   url: https://pipedapi.ducks.party/healthcheck
 - name: ngn.tf
   url: https://pipedapi.ngn.tf/healthcheck
+- name: coldforge.xyz
+  url: https://pipedapi.coldforge.xyz/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
