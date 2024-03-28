@@ -97,6 +97,8 @@ sites:
   url: https://pipedapi.ngn.tf/healthcheck
 - name: coldforge.xyz
   url: https://pipedapi.coldforge.xyz/healthcheck
+- name: codespace.cz
+  url: https://piped-api.codespace.cz/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
