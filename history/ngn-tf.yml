@@ -1,7 +1,7 @@
 url: https://pipedapi.ngn.tf/healthcheck
-status: down
-code: 502
-responseTime: 951
-lastUpdated: 2024-04-04T21:02:14.939Z
+status: up
+code: 200
+responseTime: 874
+lastUpdated: 2024-04-04T21:21:57.379Z
 startTime: 2024-01-25T00:29:48.868Z
 generator: Upptime <https://github.com/upptime/upptime>
