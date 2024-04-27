@@ -101,6 +101,8 @@ sites:
   url: https://piped-api.codespace.cz/healthcheck
 - name: reallyaweso.me
   url: https://pipedapi.reallyaweso.me/healthcheck
+- name: phoenixthrush.com
+  url: https://pipedapi.phoenixthrush.com/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
