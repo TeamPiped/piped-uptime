@@ -1,7 +1,7 @@
 url: https://api.piped.minionflo.net/healthcheck
 status: down
 code: 500
-responseTime: 656
-lastUpdated: 2024-04-28T23:07:10.414Z
+responseTime: 458
+lastUpdated: 2024-04-30T23:05:50.853Z
 startTime: 2023-11-10T00:33:14.368Z
 generator: Upptime <https://github.com/upptime/upptime>
