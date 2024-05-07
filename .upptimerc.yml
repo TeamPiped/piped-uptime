@@ -103,6 +103,8 @@ sites:
   url: https://pipedapi.reallyaweso.me/healthcheck
 - name: phoenixthrush.com
   url: https://pipedapi.phoenixthrush.com/healthcheck
+- name: private.coffee
+  url: https://api.piped.private.coffee/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
