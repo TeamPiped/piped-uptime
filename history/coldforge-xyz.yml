@@ -1,7 +1,7 @@
 url: https://pipedapi.coldforge.xyz/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-08T18:08:22.147Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2024-05-08T18:19:51.550Z
 startTime: 2024-03-15T00:20:55.198Z
 generator: Upptime <https://github.com/upptime/upptime>
