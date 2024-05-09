@@ -85,8 +85,6 @@ sites:
   url: https://piped-backend.seitan-ayoub.lol/healthcheck
 - name: owo.si
   url: https://pipedapi.owo.si/healthcheck
-- name: 12a.app
-  url: https://pipedapi.12a.app/healthcheck
 - name: minionflo.net
   url: https://api.piped.minionflo.net/healthcheck
 - name: nezumi.party
