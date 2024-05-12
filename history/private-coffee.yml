@@ -1,7 +1,7 @@
 url: https://api.piped.private.coffee/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-11T23:50:43.499Z
+status: up
+code: 200
+responseTime: 899
+lastUpdated: 2024-05-12T20:16:06.655Z
 startTime: 2024-05-07T00:27:14.793Z
 generator: Upptime <https://github.com/upptime/upptime>
