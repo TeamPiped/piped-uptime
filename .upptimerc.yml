@@ -103,6 +103,12 @@ sites:
   url: https://pipedapi.phoenixthrush.com/healthcheck
 - name: private.coffee
   url: https://api.piped.private.coffee/healthcheck
+- name: ehwurscht.at
+  url: https://schaunapi.ehwurscht.at/healthcheck
+- name: dedyn.io
+  url: https://pipedapi.dedyn.io/healthcheck
+- name: nosebs.ru
+  url: https://pipedapi.nosebs.ru/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
