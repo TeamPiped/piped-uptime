@@ -1,7 +1,7 @@
 url: https://pipedapi.smnz.de/healthcheck
-status: down
-code: 502
-responseTime: 489
-lastUpdated: 2024-06-19T02:16:44.388Z
+status: up
+code: 200
+responseTime: 566
+lastUpdated: 2024-06-19T02:46:36.943Z
 startTime: 2022-11-12T02:31:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
