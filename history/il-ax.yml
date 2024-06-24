@@ -1,7 +1,7 @@
 url: https://pa.il.ax/healthcheck
-status: up
-code: 200
-responseTime: 741
-lastUpdated: 2024-06-24T14:42:56.883Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-06-24T15:54:50.946Z
 startTime: 2022-11-12T02:27:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
