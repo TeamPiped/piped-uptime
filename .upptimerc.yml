@@ -109,6 +109,8 @@ sites:
   url: https://pipedapi.nosebs.ru/healthcheck
 - name: darkness.services
   url: https://pipedapi.darkness.services/healthcheck
+- name: andreafortuna.org
+  url: https://pipedapi.andreafortuna.org/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
