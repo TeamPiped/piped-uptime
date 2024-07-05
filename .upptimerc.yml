@@ -31,6 +31,8 @@ sites:
   url: https://piped-api.cfe.re/healthcheck
 - name: r4fo.com
   url: https://pipedapi.r4fo.com/healthcheck
+- name: nosebs.ru
+  url: https://pipedapi.nosebs.ru/healthcheck
 - name: kavin.rocks libre (Official)
   url: https://pipedapi-libre.kavin.rocks/healthcheck
 - name: mint.lgbt
@@ -105,8 +107,6 @@ sites:
   url: https://schaunapi.ehwurscht.at/healthcheck
 - name: dedyn.io
   url: https://pipedapi.dedyn.io/healthcheck
-- name: nosebs.ru
-  url: https://pipedapi.nosebs.ru/healthcheck
 - name: darkness.services
   url: https://pipedapi.darkness.services/healthcheck
 - name: andreafortuna.org
