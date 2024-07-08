@@ -1,7 +1,7 @@
 url: https://pipedapi.andreafortuna.org/healthcheck
-status: down
-code: 502
-responseTime: 520
-lastUpdated: 2024-07-08T11:56:09.724Z
+status: up
+code: 200
+responseTime: 533
+lastUpdated: 2024-07-08T12:08:38.943Z
 startTime: 2024-06-24T00:30:30.369Z
 generator: Upptime <https://github.com/upptime/upptime>
