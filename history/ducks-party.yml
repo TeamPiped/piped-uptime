@@ -1,7 +1,7 @@
 url: https://pipedapi.ducks.party/healthcheck
-status: down
-code: 502
-responseTime: 472
-lastUpdated: 2024-07-15T18:00:13.203Z
+status: up
+code: 200
+responseTime: 316
+lastUpdated: 2024-07-15T18:11:38.398Z
 startTime: 2024-02-23T00:19:33.035Z
 generator: Upptime <https://github.com/upptime/upptime>
