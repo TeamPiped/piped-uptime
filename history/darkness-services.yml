@@ -1,7 +1,7 @@
 url: https://pipedapi.darkness.services/healthcheck
-status: down
-code: 521
-responseTime: 323
-lastUpdated: 2024-07-17T17:22:08.079Z
+status: up
+code: 200
+responseTime: 587
+lastUpdated: 2024-07-17T19:17:21.979Z
 startTime: 2024-03-12T00:23:14.697Z
 generator: Upptime <https://github.com/upptime/upptime>
