@@ -1,7 +1,7 @@
 url: https://pipedapi.phoenixthrush.com/healthcheck
-status: down
-code: 502
-responseTime: 7145
-lastUpdated: 2024-07-31T18:53:39.737Z
+status: up
+code: 200
+responseTime: 11901
+lastUpdated: 2024-07-31T19:02:43.092Z
 startTime: 2024-04-27T00:49:51.987Z
 generator: Upptime <https://github.com/upptime/upptime>
