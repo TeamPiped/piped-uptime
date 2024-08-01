@@ -1,7 +1,7 @@
 url: https://pipedapi.reallyaweso.me/healthcheck
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2024-08-01T08:24:28.928Z
+status: down
+code: 502
+responseTime: 13897
+lastUpdated: 2024-08-01T13:26:44.802Z
 startTime: 2024-04-04T00:50:28.589Z
 generator: Upptime <https://github.com/upptime/upptime>
