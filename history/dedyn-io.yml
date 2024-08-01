@@ -1,7 +1,7 @@
 url: https://pipedapi.dedyn.io/healthcheck
-status: down
-code: 502
-responseTime: 1195
-lastUpdated: 2024-08-01T22:05:40.850Z
+status: up
+code: 200
+responseTime: 393
+lastUpdated: 2024-08-01T22:17:40.547Z
 startTime: 2024-05-29T00:30:11.103Z
 generator: Upptime <https://github.com/upptime/upptime>
