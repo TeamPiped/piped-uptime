@@ -105,8 +105,6 @@ sites:
   url: https://api.piped.private.coffee/healthcheck
 - name: ehwurscht.at
   url: https://schaunapi.ehwurscht.at/healthcheck
-- name: dedyn.io
-  url: https://pipedapi.dedyn.io/healthcheck
 - name: darkness.services
   url: https://pipedapi.darkness.services/healthcheck
 - name: andreafortuna.org
