@@ -1,7 +1,7 @@
 url: https://schaunapi.ehwurscht.at/healthcheck
-status: down
-code: 521
-responseTime: 316
-lastUpdated: 2024-08-23T16:01:01.111Z
+status: up
+code: 200
+responseTime: 502
+lastUpdated: 2024-08-23T16:13:28.768Z
 startTime: 2024-05-29T00:30:10.047Z
 generator: Upptime <https://github.com/upptime/upptime>
