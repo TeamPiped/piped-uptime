@@ -1,7 +1,7 @@
 url: https://pipedapi.adminforge.de/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-03T02:02:29.632Z
+status: up
+code: 200
+responseTime: 1095
+lastUpdated: 2024-09-03T02:47:12.802Z
 startTime: 2022-11-12T02:31:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
