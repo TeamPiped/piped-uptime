@@ -1,7 +1,7 @@
 url: https://piped-api.codespace.cz/healthcheck
-status: down
-code: 502
-responseTime: 721
-lastUpdated: 2024-09-21T11:20:42.389Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2024-09-21T11:29:58.173Z
 startTime: 2024-03-28T00:25:33.599Z
 generator: Upptime <https://github.com/upptime/upptime>
