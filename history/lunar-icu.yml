@@ -1,7 +1,7 @@
 url: https://piped-api.lunar.icu/healthcheck
-status: down
-code: 502
-responseTime: 305
-lastUpdated: 2024-10-07T19:37:38.976Z
+status: up
+code: 200
+responseTime: 594
+lastUpdated: 2024-10-07T19:46:52.247Z
 startTime: 2023-01-14T00:24:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
