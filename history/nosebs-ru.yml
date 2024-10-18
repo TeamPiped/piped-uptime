@@ -1,7 +1,7 @@
 url: https://pipedapi.nosebs.ru/healthcheck
-status: down
-code: 502
-responseTime: 539
-lastUpdated: 2024-10-18T03:00:47.267Z
+status: up
+code: 200
+responseTime: 767
+lastUpdated: 2024-10-18T03:14:41.080Z
 startTime: 2024-05-29T00:30:12.127Z
 generator: Upptime <https://github.com/upptime/upptime>
