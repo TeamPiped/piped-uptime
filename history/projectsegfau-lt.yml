@@ -1,7 +1,7 @@
 url: https://api.piped.projectsegfau.lt/healthcheck
 status: down
 code: 502
-responseTime: 637
-lastUpdated: 2024-10-20T23:04:41.242Z
+responseTime: 584
+lastUpdated: 2024-10-21T23:04:27.093Z
 startTime: 2022-11-12T02:29:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
