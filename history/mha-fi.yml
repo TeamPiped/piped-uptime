@@ -1,7 +1,7 @@
 url: https://api-piped.mha.fi/healthcheck
 status: down
 code: 502
-responseTime: 1701
-lastUpdated: 2024-11-06T23:04:17.284Z
+responseTime: 568
+lastUpdated: 2024-11-07T23:04:17.181Z
 startTime: 2022-11-12T02:27:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
