@@ -7,7 +7,7 @@ with open(".upptimerc.yml", "r", encoding="UTF-8") as f:
 
 # Get the list of instances
 resp = httpx.get(
-    "https://raw.githubusercontent.com/wiki/TeamPiped/Piped-Frontend/Instances.md")
+    "https://raw.githubusercontent.com/TeamPiped/documentation/refs/heads/main/content/docs/public-instances/index.md")
 
 # Parse the list of instances
 instances = []
