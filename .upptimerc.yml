@@ -1,6 +1,38 @@
 owner: TeamPiped
 repo: piped-uptime
-sites: []
+sites:
+- name: kavin.rocks (Official)
+  url: https://pipedapi.kavin.rocks/healthcheck
+- name: leptons.xyz
+  url: https://pipedapi.leptons.xyz/healthcheck
+- name: nosebs.ru
+  url: https://pipedapi.nosebs.ru/healthcheck
+- name: kavin.rocks libre (Official)
+  url: https://pipedapi-libre.kavin.rocks/healthcheck
+- name: privacy.com.de
+  url: https://piped-api.privacy.com.de/healthcheck
+- name: adminforge.de
+  url: https://pipedapi.adminforge.de/healthcheck
+- name: piped.yt
+  url: https://api.piped.yt/healthcheck
+- name: drgns.space
+  url: https://pipedapi.drgns.space/healthcheck
+- name: ggtyler.dev
+  url: https://piapi.ggtyler.dev/healthcheck
+- name: owo.si
+  url: https://pipedapi.owo.si/healthcheck
+- name: ducks.party
+  url: https://pipedapi.ducks.party/healthcheck
+- name: codespace.cz
+  url: https://piped-api.codespace.cz/healthcheck
+- name: reallyaweso.me
+  url: https://pipedapi.reallyaweso.me/healthcheck
+- name: private.coffee
+  url: https://api.piped.private.coffee/healthcheck
+- name: darkness.services
+  url: https://pipedapi.darkness.services/healthcheck
+- name: orangenet.cc
+  url: https://pipedapi.orangenet.cc/healthcheck
 status-website:
   cname: status.piped.video
   introMessage: A status page for Piped instances, with uptime and **INACCURATE**
